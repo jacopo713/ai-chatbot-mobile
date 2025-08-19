@@ -11,6 +11,10 @@
     "preview": {
       "android": {
         "buildType": "apk"
+      },
+      "distribution": "internal",
+      "env": {
+        "NODE_ENV": "production"
       }
     },
     "production": {
