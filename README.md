@@ -64,3 +64,4 @@ eas build --platform ios --profile production
 
 Scansiona il QR code dalla sidebar del sito web o scarica l'APK direttamente:
 [Download APK](https://expo.dev/accounts/jacopo96/projects/ai-chatbot-mobile/builds)
+# Build ready! 🚀
